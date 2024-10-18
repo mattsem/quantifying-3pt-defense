@@ -1,2 +1,2 @@
 # quantifying-3pt-defense
-Project with pseminatore for ShotQuality Kaggle competition
+Repo for hosting code related to Kaggle competition - Quantifying NCAAM 3PT Defense with Tracking Data
